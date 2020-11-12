@@ -1,3 +1,137 @@
 <resources>
     <string name="app_name">AssignmentUdacoding</string>
+    <string name="title_splash_screen">Assignment 2 - Kotlin Mentoring <p>Swaputra Adji Nugroho</p></string>
+    <string name="title_login">Kotlin Mentoring Batch 3</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome, </string>
+    <string name="task1">1. Membuat Program Kalkulator BMI (Berat Badan Ideal)</string>
+    <string name="task2">2. Membuat Aplikasi Hitung Umur</string>
+    <string name="count_age">How Old Are You</string>
+    <string name="insert_year">Please insert your birth year</string>
+    <string name="count">Count</string>
+    <string name="your_current_age">Your current age :</string>
+    <string name="description">Description</string>
+
+    <string name="desc_ironman">Iron man merupakan salah satu pahlawan super yang terkenal di Dunia Komik Marvel. Tokoh ini diciptakan oleh Stan Lee dan desain rupanya digambarkan oleh Jack Kirby. Iron Man sendiri merupakan seorang ilmuan kaya bernama Anthony Edward Stark atau yang biasa juluki Tony Stark. Tony Stark sendiri merupakan anak dari Howard Stark, seorang ilmuan yang mendirikan perusahaan yang bergerak di bidang teknologi bernama Stark Industries.
+
+
+Tony Stark pun akhirnya mewarisi perusahaan besar ayahnya. Namun karena hidupnya yang penuh kemewahan, Tony pun masuk dalam dunia malam yang penuh pesta pora. Dalam Hidupnya hanya ada dua kata yakni “Pesta” dan “Wanita”.
+
+Kehidupan Tony Stark berubah saat dirinya diserang sekelompok teroris yang ingin memiliki teknologi senjata pemusnah masal miliknya. Saat sedang memperkenalkan roket bernama “Jerrico” buatannya di Timur Tengah, Tony diserang dengan rudal yang menyebabkan jatungnya rusak dan membutuhkan alat untuk memacunya.</string>
+
+    <string name="desc_hawkeye">Clint Barton adalah karakter fiktif karya Marvel. Karakter ini diciptakan oleh Stan Lee dan Don Heck dan muncul pertama dalam komik Marvel "Tales of Suspense #57" pada tahun 1964. Haweye digambarkan sebagai seorang pemuda yang memiliki keahlian dalam memanah. Ia pun bergabung dalam kelompok The Avengers.
+
+
+Clint Barton berasal dari daerah Waverly, Iowa. Pada saat berumur 6 tahun, Clint harus kehilangan kedua orang tuanya karena kecelakaan mobil. Menjadi yatim piatu membuat Clint dan sang adik, Barney harus hidup mandiri dan bergabung dengan kelompok karnaval keliling. Seorang ahli pedang di karnaval tersebut tertarik dengan Clint. Clint pun dilatih cara menggunakan panah hingga mahir. Namun suatu saat Clint melihat guru panahnya melakukan penggelap uang yang menyebabkan Clint dipukuli hingga nyaris mati dan ditinggal begitu saja. Clint pun saat itu harus terpisah dengan sang adik. </string>
+
+    <string name="desc_groot">Groot adalah salah satu tokoh dalam Komik Marvel. Karater ini diciptakan oleh Stan Lee, Jack Kirby, dan Dick Ayers. Tokoh yang berbentuk monster pohon ini muncul pertama kali pada komik Tales of Astonish #13 pada November 1960. Meskipun berbentuk seperti monster, Groot merupakan salah satu pahlawan super Marvel.
+
+
+Groot sendiri sebenarnya adalah alien tumbuhan yang berasal dari planet X. karena tubuh mereka terbentuk dari pohon maka mereka mengalami kesulitan dalam berkomunikasi karena kekakuan dari tenggorokan mereka. Groot sendiri cukup beruntung karena dirinya dapat berbicara meskipun hanya frasa "Aku Groot". Di Planet X, para alien tumbuhan yang cerdas mencoba untuk mengunakan mamalia kecil sebagai peliharaan mereka dengan pengetahuan cerdas yang mereka miliki. Namun Groot memiliki kepribadian berbeda, Ia tak menganggap mamalia kecil sebagai peliharaan melainkan sebagai teman.</string>
+
+    <string name="desc_black_widow">
+        Natasha Romanoff atau yang biasa disebut Black Widows adalah salah satu tokoh dalam komik Marvel. Tokoh ini diciptakan oleh Stan Lee, Don Rico, dan Don Heck. Muncul pertama kali di komik berjudul Mystic Comics #4 pada bulan Agustus 1940. Sosok Black Widow merupakan protagonis pada komik tersebut.
+
+
+Bernama lengkap Natalia Alianavna Romanova, Natasha Romanoff merupakan salah satu agen dari S.H.I.E.L.D. Ia lahir di Stalingrad, Rusia. Awalnya, Natasha merupakan mata-mata Rusia yang direkrut oleh KGB untuk mengumpulkan berbagai informasi. Namun karena merasa dikhianati oleh pihak KGB, Natasha pun akhirnya keluar dari KGB. Setelah berkenalan dengan Nick Fury, Natasha pun akhirnya bergabung dengan S.H.I.E.L.D dan merupakan orang yang berperan penting dalam terbentuknya kelompok The Avengers. Tugas pertamanya saat itu adalah membujuk Tony Stark agar bisa bergabung dengan aliasi pahlawan super tersebut.
+
+Sebagai Black Widow, Natasha Romanoff memiliki kemampuan bela diri yang banyak. Tercatat ia ahli dalam berbagai ilmu bela diri seperti karate, ninjutsu, aikido, dan tinju. Black Widow juga sempat mendapat suntikan "Super-Soldier Serum" sehingga wanita itu memiliki kemampuan fisik dan mental melebihi manusia lainnya salah satunya adalah kebal dari berbagai jenis racun dan wabah penyakit.
+    </string>
+
+    <string name="desc_hulk">
+       Hulk merupakan salah satu karakter dari Marvel yang diciptakan oleh Stan Lee dan Jack Kirby. Karakter Hulk pertama kali muncul pada komik berjudul The Incredible Hulk yang diterbitkan pada tahun 1962. Tujuan diciptakannya karakter Hulk awalnya ada untuk mengingatkan para pembaca komik Marvel untuk belajar menahan emosi. Karakter ini pun dibuat berdasarkan pengaruh cerita Frankenstein.
+
+
+Dr. Robert Bruce Banner atau biasa disebut Bruce Banner adalah seorang ilmuan yang melakukan penelitian bom gamma. Namun pada saat penelitian sedang berlangsung, terjadi kecelakaan yang menyebabkan bom gamma tersebut meledak. Dr. Banner pun terkena radiasi gamma yang mengubahnya menjadi monster humanoid jika emosinya tak dapat di kontrol.
+    </string>
+
+    <string name="desc_rocket_raccoon">
+        Rocket Racoon adalah karakter dalam komik Marvel. Tokoh ini diciptakan oleh Bill Mantlo dan Keith Giffen dan pertama kali muncul pada Marvel Preview di tahun 1976. Rocket sendiri merupakan sebuah robot berbentuk rakun yang juga merupakan anggota dari Guardians of the Galaxy.
+
+Rocket sebenarnya adalah anggota dari penjaga "Keystone Quardrant" disebuah tempat yang bernama dinding Galacian. Ia berasal dari planet Halfworld, planet dimana para binatang bertingkah dan berpikir layaknya manusia melalui proses genetik. Saat masih di Halfworld, Rocket memiliki sahabat bernama Wal Russ, seekor walrus yang dapat berbicara. Rocket bersama Wal Russ merupakan orang yang melindungi planet mereka dari berbagai ancaman.
+
+    </string>
+
+    <string name="desc_black_panther">
+       Black Panter adalah salah satu tokoh pahlawan yang ada di komik Marvel. Karakter ini diciptakan oleh Stan Lee dan Jack Kirby. Tokoh Black Panther pertama kali muncul pada komik Fantastic Four Vol 52 yang terbit pada bulan Juli 1966. Black Panther adalah superhero kulit hitam pertama yang pernah dibuat di Amerika yang kemudian disusul dengan kemunculan Falcon.
+
+T Challa atau Black Panther merupakan putra dari raja T Chaka, pemimpin suku Wakanda. Wakanda merupakan salah satu suku yang berasal dari Afrika. Black Panther sendiri merupakan sebuah julukan dari warga Wakanda untuk menjuluki pahlawan mereka. Awalnya, Raja T Chaka merupakan sosok Black Panther, dirinya melindungi warga Wakanda dari tindak kejahatan. Suku Wakanda memang menutup diri dari dunia luar. Hal tersebut dilakukan karena Wakanda kaya akan Vibranium (bahan pembuat tameng Captain America) dan HYDRA mencari bahan tersebut.
+    </string>
+
+    <string name="desc_wanda">
+        Scarlet Witch (nama asli Wanda Maximoff juga dikenal sebagai Wanda Frank, Ana Maximoff dan Wanda Magnus) adalah sebuah karakter pahlawan super fiksi yang muncul dalam buku terbitan Marvel Comics. Karakter ini pertama kali muncul X-Men #4 (Maret 1964) dan dibuat oleh Stan Lee dan Jack Kirby. Dia adalah anak perempuan dari Magneto, saudara kembar dari Quicksilver, dan saudara tiri paternal dari Polaris.
+
+Sejak memulai debutnya di Silver Age of Comic Books, Scarlet Witch telah tampil lima dekade di Marvel berturut-turut, membintangi dua judul solo (seri terbatas) bersama dengan suaminya Vision dan sebagai anggota tim pahlawan super reguler di Avengers. Karakter ini juga muncul dalam produk Marvel lain seperti film animasi, permainan arkade dan permainan video; serial televisi dan mainan seperti action figure dan kartu koleksi.
+
+Scarlet Witch berada di peringkat 97 dalam daftar "200 Karakter Buku Komik Terhebat" ("200 Greatest Comic Book Characters of All Time") oleh Wizard[1] dan peringkat 14 dalam daftar "100 Karakter Wanita Terseksi dalam komik" ("100 Sexiest Women in Comics") oleh Comics Buyer Guide.[2]
+    </string>
+
+    <string name="desc_spiderman">
+       Spider-Man adalah salah satu pahlawan super fiksi Marvel. Tokoh ini diciptakan Stan Lee dan Steve Ditko dan pertama kali muncul pada komik Amazing Fantasy #15 di tahun 1962. Spider-Man sebenarnya adalah sosok pemuda bernama Peter Paker yang mendapat kekuatan setelah digigit laba-laba percobaan.
+
+
+Peter Benjamin Parker atau biasa disebut Peter Parker adalah seorang pemuda yang berasal dari Forest Hill, New York City. Ayahnya adalah seorang ilmuan jenius yang bernama Richard Paker sementara ibunya adalah bernama Mary. Diumur 7 tahun, Peter dititipkan pada pamannya Ben Parker dan setelah itu kedua orang tuanya meninggal akibat kecelakaan pesawat. Selanjutnya Peter di besarkan oleh paman dan bibinya May yang juga bekerja sebagai perawat. Ia pun tumbuh menjadi pemuda yang cerdas.
+
+    </string>
+
+    <string name="desc_antman">
+        Ant-Man adalah salah satu karakter dalam komik Marvel. Pahlawan super yang kekuatannya terinspirasi dari binatang semut ini diciptakan oleh Stan Lee, Jack Kirby, dan Larry Lieber. Ant-Man pertama kali muncul pada komik Tales to Astonish vol 35 yang diterbitkan pada bulan Januari 1962.
+    </string>
+
+    <string name="desc_strange">
+        Doctor Strange adalah salah satu tokoh yang ada dalam komik Marvel. Tokoh ini diciptakan oleh Steve Ditko. Karakter yang digambarkan mempunyai ilmu magis ini pertama kali muncul pada komik Strange Tales Vol 110 yang diterbitkan pada bulan Juli tahun 1963.
+
+
+Stephen Vincent Strange atau yang biasa dikenal sebagai Doctor Strange adalah seorang ahli bedah syaraf yang sangat cerdas, namun sifatnya sangat egois dan selalu memikirkan tentang kekayaan dan karirnya. Suatu saat Strange mengalami kecelakaan mobil. Kecelakaan tersebut membuat tangannya cacat karena tulangnya mengalami kerusakan parah. Cacat pada tangannya membuat karirnya sebagai dokter bedah berakhir lantaran tangannya yang selalu gemetar saat melakukan operasi. Dokter Strange pun mencari berbagai macam cara agar tangannya dapat kembali pulih.
+    </string>
+
+    <string name="desc_vision">
+       Vision adalah salah satu karakter pada komik Marvel. Tokoh ini diciptakan oleh Roy Thomas, Stan Lee, dan John Buscema. Vision pertama kali muncul pada komik yang berjudul The Avengers volume 57 yang diterbitkan pada bulan Oktober tahun 1968. Tokoh Vision digambarkan sebagai robot android yang sangat pintar.
+
+
+Berdasarkan komiknya, Vision diciptakan oleh robot bernama Ultron. Ultron membuat Vision berdasarkan bentuk tubuhnya sendiri dengan sebutan android synthezoid. Saat itu, Ultron menciptakan Vision untuk membunuh Hank Pym beserta istrinya Janet van Dyne (Wasp). Namun kala Vision mencoba untuk mengalahkan Wasp, Vision berhasil diprogram ulang oleh Wasp sehingga malah berbalik melawan Ultron sendiri.
+
+Vision mengetahui jika Ultron menciptakan dirinya berdasarkan data dari Wonder Man dan Human Torch. sempat diprogram bebas, Ultron akhirnya dapat kembali menguasai Vision dengan kemampuan teknologinya, Ultron bahkan membuat Vision mengupgrade dirinya dengan bahan adamantium dan bahkan kembali menyerang kelompok Avengers.
+    </string>
+
+    <string name="desc_tesla_x">
+        The Model X was developed from the full-sized sedan platform of the Tesla Model S. The Model X has an EPA size class as an SUV,[7] and shares ~30% of its content with the Model S, half of the originally planned ~60%, and weighs about 10 percent more. Both the Model X and Model S are being produced at the Tesla Factory in Fremont, California. The prototype was unveiled at Tesla design studios in Hawthorne, California on February 9, 2012.[11][12] First deliveries of the Model X began in September 2015.[13] After one full year on the market, in 2016, the Model X ranked seventh among the world best-selling plug-in cars.[14]
+
+As of February 14, 2020, the Model X is only available as the Long Range Plus with an estimated EPA range of 371 miles (597 km) and the Performance model with an estimated EPA range of 341 miles (549 km).[15][16] Both come with Tesla Autopilot driver assistance system.[17]
+    </string>
+
+    <string name="desc_tesla_s">
+        Tesla Model S adalah sedan listrik liftback lima pintu, diproduksi oleh Tesla, Inc. dan diperkenalkan pada 22 Juni 2012.[10] Pada 23 April 2019, Model S Long Range memiliki jangkauan EPA 373 mil (600 km), yang lebih jauh dari mobil listrik baterai lainnya.[11][12]
+
+Model S yang dibuat setelah Oktober 2016, memiliki opsi sistem bantuan pengemudi canggih yang memungkinkan mobil beroperasi tanpa bantuan pengemudi, tetapi pengemudi harus terus mengawasi dan mengambil kendali jika ada masalah. Fitur ini disebut Autopilot.[13] Mode Sentry tersedia di Autopilot hardware 2+, dibangun setelah Agustus 2017.[14] Mode Sentry merasakan dan merekam aktivitas mencurigakan di sekitar mobil. Autopilot 2.0 juga termasuk Enhanced Summon, yang memungkinkan mobil melaju melalui tempat parkir untuk menemukan penggunanya, tanpa ada orang di kursi pengemudi.[15]
+
+Pada 2013, Model S menjadi mobil listrik pertama yang berada di atas peringkat penjualan mobil baru bulanan di negara mana pun, dua kali memimpin di Norwegia, pada bulan September dan Desember 2013[16][17][18][19] dan juga di Denmark pada bulan Desember 2015.[20] Penjualan Global Model S melewati 250.000 unit pada September 2018.[21][22][23][24] AS adalah pasar terdepan, dengan sekitar 140.000 unit dikirimkan hingga Desember 2018.[25]
+
+Tesla Model S adalah mobil listrik plug in terlaris di seluruh dunia pada tahun 2015 dan 2016,[26][27][28] dan pada akhir 2018 terus peringkat sebagai mobil listrik paling laris kedua dalam sejarah setelah Nissan Leaf.[29] Survei kepuasan pemilik Consumer Reports Desember 2017 menempatkan Tesla Model S di bagian atas.[30] Pada 2019, majalah Motor Trend AS menyebut Tesla Model S 2013 sebagai mobil terbaik tahun ini selama 70 tahun sejarah majalah itu.[31]
+    </string>
+
+    <string name="desc_tesla_3">
+        The Tesla Model 3 is an electric four-door fastback sedan developed by Tesla.[6] The Model 3 Standard Range Plus version delivers an EPA-rated all-electric range of 263 miles (423 km) and the Long Range versions deliver 353 miles (568 km).[7] According to Tesla the Model 3 carries full self-driving hardware, with periodic software updates adding functionality.[8][9][10]
+
+Limited production of the Model 3 began in mid-2017, with the first production vehicle rolling off the assembly line on July 7, 2017.[11][12][13] The official launch and delivery of the first 30 cars took place on July 28.[14]
+
+As of March 2020, the Tesla Model 3 is the world best-selling electric car in history, with more than 500,000 units delivered.[15] The Model 3 was the worlds top selling plug-in electric car in 2018 and 2019,[16][17] and also the best-selling plug-in car in the United States.[18][19] The Model 3 was also the top selling plug-in car in Europe in 2019.[20]
+    </string>
+
+    <string name="desc_tesla_cybertruck">
+        The Tesla Cybertruck is an all-electric, battery-powered, light duty truck announced by Tesla, Inc. Three models have been announced, with EPA range estimates of 250–500 miles (400–800 km) and an estimated 0–60 mph time of 2.9–6.5 seconds, depending on the model.[10]
+
+The stated goal of Tesla in developing the Cybertruck is to provide a sustainable-energy substitute for the roughly 6,500 fossil-fuel-powered trucks sold per day in the United States.[10][11][12]
+
+The base price of the rear-wheel drive model of the vehicle was announced to be US$39,900, with all-wheel drive (AWD) models starting at US$49,900.[13][14] Dual-motor AWD and tri-motor AWD Cybertruck production is slated to begin in late 2021, with the rear-wheel drive model being added in 2022.[10]
+    </string>
+
+    <string name="desc_tesla_roadster">
+        The Tesla Roadster is an upcoming all-electric battery-powered four-seater sports car concept made by Tesla, Inc.[1] Tesla has said it will be capable of 0 to 60 mph (0 to 97 km/h) in 1.9 seconds,[2][3] which is quicker than any street legal production car to date at its announcement in November 2017.[4] The Roadster is the successor to Tesla first production car, which was the 2008 Roadster.
+
+Tesla CEO Elon Musk has said that Roadster sales will begin after the release of the revised Model S Plaid, which should enter production in late 2021. Musk said in a tweet that higher-performance trim levels will be available beyond the base specifications, including a SpaceX package which would "include ~10 small rocket thrusters arranged seamlessly around car" which would supposedly allow the car dramatic improvements in "acceleration, top speed, braking &amp; cornering", and even the ability to fly.[5]
+    </string>
+
 </resources>

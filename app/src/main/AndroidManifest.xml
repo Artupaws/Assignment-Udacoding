@@ -8,8 +8,15 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AssignmentUdacoding">
-        <activity android:name=".MainActivity">
+        android:theme="@style/Theme.AssignmentUdacoding.Light">
+        <activity android:name=".DetailActivity"></activity>
+        <activity android:name=".ListViewActivity" />
+        <activity android:name=".RecyclerviewActivity" />
+        <activity android:name=".RecyclerViewActivity" />
+        <activity android:name=".CountAgeActivity" />
+        <activity android:name=".AssignmentActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
