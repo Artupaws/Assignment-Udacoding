@@ -1,4 +1,4 @@
 package udacoding.test.assignmentudacoding.model
 
-class Items {
+class Items(val nameItem: String, val image: Int) {
 }
