@@ -29,6 +29,7 @@ class AssignmentActivity : AppCompatActivity(), View.OnClickListener {
         tvUsername = findViewById(R.id.tv_username)
 
         btn3.setOnClickListener(this)
+        btn1.setOnClickListener(this)
         btn2.setOnClickListener(this)
         btn4.setOnClickListener(this)
         btn5.setOnClickListener(this)
@@ -58,6 +59,11 @@ class AssignmentActivity : AppCompatActivity(), View.OnClickListener {
 
             R.id.btn_task5 ->{
                 val intent = Intent(applicationContext, ListViewActivity::class.java)
+                startActivity(intent)
+            }
+
+            R.id.btn_task1 ->{
+                val intent = Intent(applicationContext, BmiActivity::class.java)
                 startActivity(intent)
             }
 

@@ -133,5 +133,15 @@ The base price of the rear-wheel drive model of the vehicle was announced to be 
 
 Tesla CEO Elon Musk has said that Roadster sales will begin after the release of the revised Model S Plaid, which should enter production in late 2021. Musk said in a tweet that higher-performance trim levels will be available beyond the base specifications, including a SpaceX package which would "include ~10 small rocket thrusters arranged seamlessly around car" which would supposedly allow the car dramatic improvements in "acceleration, top speed, braking &amp; cornering", and even the ability to fly.[5]
     </string>
+    <string name="title_activity_bmi">BmiActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_bmi">How ideal is your body weight ?</string>
 
 </resources>

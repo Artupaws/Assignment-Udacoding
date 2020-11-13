@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AssignmentUdacoding.Light">
-        <activity android:name=".DetailActivity"></activity>
+        <activity
+            android:name=".BmiActivity"
+            android:label="@string/title_activity_bmi"
+            android:theme="@style/Theme.AssignmentUdacoding.Light.NoActionBar"></activity>
+        <activity android:name=".DetailActivity" />
         <activity android:name=".ListViewActivity" />
         <activity android:name=".RecyclerviewActivity" />
         <activity android:name=".RecyclerViewActivity" />
