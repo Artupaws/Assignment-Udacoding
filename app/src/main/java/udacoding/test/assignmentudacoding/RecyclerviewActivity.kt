@@ -19,11 +19,11 @@ class RecyclerviewActivity : AppCompatActivity() {
         recyclerview = findViewById(R.id.recyclerview)
 
         val list = arrayListOf(
-                Items(nameItem = "Tesla Model S", R.drawable.tesla_model_s),
-                Items(nameItem = "Tesla Model 3", R.drawable.tesla_model_3),
-                Items(nameItem = "Tesla Model X", R.drawable.tesla_model_x),
-                Items(nameItem = "Tesla Roadster", R.drawable.tesla_roadster),
-                Items(nameItem = "Tesla Cybertruck", R.drawable.tesla_cybertruck),
+                Items(nameItem = "Tesla Model S", R.drawable.teslamodels),
+                Items(nameItem = "Tesla Model 3", R.drawable.teslamodel3),
+                Items(nameItem = "Tesla Model X", R.drawable.teslamodelx),
+                Items(nameItem = "Tesla Roadster", R.drawable.teslaroadster),
+                Items(nameItem = "Tesla Cybertruck", R.drawable.teslacybertruck),
         )
 
         val itemsAdapter = AdapterRecyclerview(applicationContext,list)

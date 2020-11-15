@@ -24,10 +24,10 @@ class ListViewActivity : AppCompatActivity() {
         listAvenger.add(Items("Dr Strange", R.drawable.strange))
         listAvenger.add(Items("Wanda", R.drawable.wanda))
         listAvenger.add(Items("Vision", R.drawable.vision))
-        listAvenger.add(Items("Black Panther", R.drawable.blackphanter))
+        listAvenger.add(Items("Black Panther", R.drawable.blackpanther))
         listAvenger.add(Items("Black Widow", R.drawable.blackwidow))
         listAvenger.add(Items("Ant Man", R.drawable.antman))
-        listAvenger.add(Items("Rocket Raccoon", R.drawable.rocketracoon))
+        listAvenger.add(Items("Rocket Raccoon", R.drawable.rocket))
         listAvenger.add(Items("Groot", R.drawable.groot))
 
         val adapter = AdapterListview(this, listAvenger)

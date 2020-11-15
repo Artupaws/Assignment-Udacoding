@@ -81,25 +81,25 @@ class DetailActivity : AppCompatActivity() {
         } else if (name == "Vision") {
             iv.setImageResource(R.drawable.vision)
         } else if (name == "Black Panther") {
-            iv.setImageResource(R.drawable.blackphanter)
+            iv.setImageResource(R.drawable.blackpanther)
         } else if (name == "Black Widow") {
             iv.setImageResource(R.drawable.blackwidow)
         } else if (name == "Ant Man") {
             iv.setImageResource(R.drawable.antman)
         } else if (name == "Rocket Raccoon") {
-            iv.setImageResource(R.drawable.rocketracoon)
+            iv.setImageResource(R.drawable.rocket)
         } else if (name == "Groot") {
             iv.setImageResource(R.drawable.groot)
         } else if (name == "Tesla Model X"){
-            iv.setImageResource(R.drawable.tesla_model_x)
+            iv.setImageResource(R.drawable.teslamodelx)
         } else if (name == "Tesla Model S"){
-            iv.setImageResource(R.drawable.tesla_model_s)
+            iv.setImageResource(R.drawable.teslamodels)
         } else if (name == "Tesla Model 3"){
-            iv.setImageResource(R.drawable.tesla_model_3)
+            iv.setImageResource(R.drawable.teslamodel3)
         } else if (name == "Tesla Cybertruck"){
-            iv.setImageResource(R.drawable.tesla_cybertruck)
+            iv.setImageResource(R.drawable.teslacybertruck)
         } else if (name == "Tesla Roadster"){
-            iv.setImageResource(R.drawable.tesla_roadster)
+            iv.setImageResource(R.drawable.teslaroadster)
         }
     }
 
