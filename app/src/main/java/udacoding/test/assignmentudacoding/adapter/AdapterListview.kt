@@ -26,7 +26,7 @@ class AdapterListview(val context: Context, private val items: List<Items>?): Ba
     }
 
     override fun getView(p0: Int, view: View?, parent: ViewGroup?): View {
-        val view = LayoutInflater.from(parent?.context).inflate(R.layout.list_item, parent, false)
+        val view = LayoutInflater.from(parent?.context).inflate(R.layout.list_item_listview, parent, false)
 
         val image = view.findViewById<ImageView>(R.id.iv_item_list)
         val name = view.findViewById<TextView>(R.id.tv_item_list)
