@@ -1,4 +1,4 @@
-package udacoding.test.assignmentudacoding
+package udacoding.test.assignmentudacoding.view.Assignment2
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.EditText
+import udacoding.test.assignmentudacoding.R
+import udacoding.test.assignmentudacoding.view.mainmenu.MainMenuActivity
 
 class LoginActivity : AppCompatActivity(), View.OnClickListener{
 
@@ -33,15 +35,19 @@ class LoginActivity : AppCompatActivity(), View.OnClickListener{
     private fun loginCheck(){
         val username = et_username.text.toString()
         val password = et_password.text.toString()
-        if (username.isEmpty()){
-            et_username.setError("Masukan username!")
-        } else if (password.isEmpty()){
-            et_password.setError("Masukan password!")
-        } else {
-            val intent = Intent(applicationContext, AssignmentActivity::class.java)
-            intent.putExtra("username", username)
-            startActivity(intent)
-            finishAffinity()
+        when {
+            username.isEmpty() -> {
+                et_username.error = "Masukan username!"
+            }
+            password.isEmpty() -> {
+                et_password.error = "Masukan password!"
+            }
+            else -> {
+                val intent = Intent(applicationContext, MainMenuActivity::class.java)
+                intent.putExtra("username", username)
+                startActivity(intent)
+                finishAffinity()
+            }
         }
     }
 

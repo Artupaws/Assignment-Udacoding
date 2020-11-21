@@ -1,6 +1,5 @@
-package udacoding.test.assignmentudacoding
+package udacoding.test.assignmentudacoding.view.Assignment2
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.Editable
@@ -8,9 +7,7 @@ import android.text.TextWatcher
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
-import com.google.android.material.snackbar.Snackbar
-import org.w3c.dom.Text
-import java.time.Year
+import udacoding.test.assignmentudacoding.R
 import java.util.*
 
 class CountAgeActivity : AppCompatActivity() {

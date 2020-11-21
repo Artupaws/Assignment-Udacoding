@@ -1,41 +1,39 @@
-package udacoding.test.assignmentudacoding
+package udacoding.test.assignmentudacoding.view.Assignment2
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
-import android.widget.TextView
+import androidx.appcompat.widget.Toolbar
+import udacoding.test.assignmentudacoding.R
 
-class AssignmentActivity : AppCompatActivity(), View.OnClickListener {
+class AssignmentWeek2Activity : AppCompatActivity(), View.OnClickListener {
 
     private lateinit var btn1: Button
     private lateinit var btn2: Button
     private lateinit var btn3: Button
     private lateinit var btn4: Button
     private lateinit var btn5: Button
-    private var username: String = ""
-    private lateinit var tvUsername: TextView
+    private lateinit var toolbar: Toolbar
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_assignment)
+        setContentView(R.layout.activity_assignment_week2)
 
         btn1 = findViewById(R.id.btn_task1)
         btn2 = findViewById(R.id.btn_task2)
         btn3 = findViewById(R.id.btn_task3)
         btn4 = findViewById(R.id.btn_task4)
         btn5 = findViewById(R.id.btn_task5)
-        tvUsername = findViewById(R.id.tv_username)
+        toolbar = findViewById(R.id.toolbar_week3)
 
         btn3.setOnClickListener(this)
         btn1.setOnClickListener(this)
         btn2.setOnClickListener(this)
         btn4.setOnClickListener(this)
         btn5.setOnClickListener(this)
-
-        username = intent.extras?.get("username").toString()
-        tvUsername.setText(username)
+        toolbar.title = "Assignment Week 2"
 
     }
 

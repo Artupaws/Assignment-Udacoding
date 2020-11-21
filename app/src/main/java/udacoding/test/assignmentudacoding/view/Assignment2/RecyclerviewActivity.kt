@@ -1,10 +1,10 @@
-package udacoding.test.assignmentudacoding
+package udacoding.test.assignmentudacoding.view.Assignment2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import udacoding.test.assignmentudacoding.R
 import udacoding.test.assignmentudacoding.adapter.AdapterRecyclerview
 import udacoding.test.assignmentudacoding.model.Items
 

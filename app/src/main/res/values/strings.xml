@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">AssignmentUdacoding</string>
-    <string name="title_splash_screen">Assignment 2 - Kotlin Mentoring <p>Swaputra Adji Nugroho</p></string>
+    <string name="title_splash_screen">Assignment - Kotlin Mentoring <p>Swaputra Adji Nugroho</p></string>
     <string name="title_login">Kotlin Mentoring Batch 3</string>
     <string name="username">username</string>
     <string name="password">password</string>
@@ -143,5 +143,24 @@ Tesla CEO Elon Musk has said that Roadster sales will begin after the release of
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="title_bmi">How ideal is your body weight ?</string>
+    <string name="_3_membuat_program_cek_login_sederhana">3. Membuat Program Cek Login Sederhana</string>
+    <string name="task4_assignment2">4. Membuat List Menggunakan RecyclerView + Detail Item</string>
+    <string name="task5_assignment2">5. Membuat List Menggunakan ListView + Detail Item</string>
+    <string name="assignment_week_2">Assignment Week 2</string>
+    <string name="assignment_week_3">assignment week 3</string>
+    <string name="assignment_week_4">assignment week 4</string>
+    <string name="task1_week3">1. Membuat Aplikasi Get Data From API Batik Kita</string>
+    <string name="task2_week3">2. Membuat Aplikasi Get Data From API Museum and Search Museum di Indonesia</string>
+    <string name="task3_week3">3. Membuat Aplikasi Get Data From API Daerah Indonesia</string>
+    <string name="task4_week3">4. Membuat Aplikasi Get Data From API Data Covid-19 di Indonesia</string>
+    <string name="search_museum_here">Search museum here</string>
+    <string name="museum_in_indonesia">List Museums in Indonesia</string>
+    <string name="provinces_name_in_indonesia">Provinces Name in Indonesia</string>
+    <string name="covid_19">Covid-19 |</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovery">Recovery</string>
+    <string name="died">Died</string>
+    <string name="list_museum_in_indonesia">List Museum in Indonesia</string>
+    <string name="title_corona">list of provinces affected by covid 19 in Indonesia</string>
 
 </resources>

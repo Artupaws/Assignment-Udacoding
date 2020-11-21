@@ -1,4 +1,4 @@
-package udacoding.test.assignmentudacoding
+package udacoding.test.assignmentudacoding.view.Assignment2
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -9,6 +9,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import udacoding.test.assignmentudacoding.R
 
 class BmiActivity : AppCompatActivity(), View.OnClickListener {
 

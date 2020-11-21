@@ -1,9 +1,11 @@
-package udacoding.test.assignmentudacoding
+package udacoding.test.assignmentudacoding.view
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import udacoding.test.assignmentudacoding.R
+import udacoding.test.assignmentudacoding.view.Assignment2.LoginActivity
 
 class SplashScreenActivity : AppCompatActivity() {
 

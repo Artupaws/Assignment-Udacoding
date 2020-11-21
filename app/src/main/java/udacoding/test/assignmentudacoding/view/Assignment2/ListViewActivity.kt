@@ -1,8 +1,9 @@
-package udacoding.test.assignmentudacoding
+package udacoding.test.assignmentudacoding.view.Assignment2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ListView
+import udacoding.test.assignmentudacoding.R
 import udacoding.test.assignmentudacoding.adapter.AdapterListview
 import udacoding.test.assignmentudacoding.model.Items
 

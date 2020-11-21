@@ -9,7 +9,7 @@ import android.widget.BaseAdapter
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
-import udacoding.test.assignmentudacoding.DetailActivity
+import udacoding.test.assignmentudacoding.view.Assignment2.DetailActivity
 import udacoding.test.assignmentudacoding.R
 import udacoding.test.assignmentudacoding.model.Items
 

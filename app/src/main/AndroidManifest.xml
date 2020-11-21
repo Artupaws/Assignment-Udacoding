@@ -2,25 +2,33 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="udacoding.test.assignmentudacoding">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AssignmentUdacoding.Light">
+        android:theme="@style/Theme.AssignmentUdacoding.Light"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".view.assignment3.CoronaActivity"></activity>
+        <activity android:name=".view.assignment3.ProvinceActivity" />
+        <activity android:name=".view.assignment3.MuseumActivity" />
+        <activity android:name=".view.assignment3.BatikActivity" />
+        <activity android:name=".view.assignment3.AssignmentWeek3Activity" />
+        <activity android:name=".view.mainmenu.MainMenuActivity" />
         <activity
-            android:name=".BmiActivity"
+            android:name=".view.Assignment2.BmiActivity"
             android:label="@string/title_activity_bmi"
-            android:theme="@style/Theme.AssignmentUdacoding.Light.NoActionBar"></activity>
-        <activity android:name=".DetailActivity" />
-        <activity android:name=".ListViewActivity" />
-        <activity android:name=".RecyclerviewActivity" />
-        <activity android:name=".RecyclerViewActivity" />
-        <activity android:name=".CountAgeActivity" />
-        <activity android:name=".AssignmentActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".SplashScreenActivity">
+            android:theme="@style/Theme.AssignmentUdacoding.Light.NoActionBar" />
+        <activity android:name=".view.Assignment2.DetailActivity" />
+        <activity android:name=".view.Assignment2.ListViewActivity" />
+        <activity android:name=".view.Assignment2.RecyclerviewActivity" />
+        <activity android:name=".view.Assignment2.CountAgeActivity" />
+        <activity android:name=".view.Assignment2.AssignmentWeek2Activity" />
+        <activity android:name=".view.Assignment2.LoginActivity" />
+        <activity android:name=".view.SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,9 +1,10 @@
-package udacoding.test.assignmentudacoding
+package udacoding.test.assignmentudacoding.view.Assignment2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
+import udacoding.test.assignmentudacoding.R
 
 class DetailActivity : AppCompatActivity() {
 
