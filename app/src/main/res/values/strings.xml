@@ -162,5 +162,20 @@ Tesla CEO Elon Musk has said that Roadster sales will begin after the release of
     <string name="died">Died</string>
     <string name="list_museum_in_indonesia">List Museum in Indonesia</string>
     <string name="title_corona">list of provinces affected by covid 19 in Indonesia</string>
+    <string name="makna_batik">Makna Batik :</string>
+    <string name="low_cost">Harga Rendah :</string>
+    <string name="high_cost">Harga Tinggi :</string>
+    <string name="kode_pengelolaan">Kode Pengelolaan :</string>
+    <string name="alamat_jalan">Alamat Jalan :</string>
+    <string name="kecamatan">Kecamatan :</string>
+    <string name="provinsi">Provinsi :</string>
+    <string name="pengelola">Pengelola</string>
+    <string name="tipe">Tipe :</string>
+    <string name="tahun_berdiri">Tahun Berdiri :</string>
+    <string name="tutup">tutup</string>
+    <string name="kasus_positif">Kasus Positif :</string>
+    <string name="kasus_sembuh">Kasus Sembuh :</string>
+    <string name="kasus_meninggal">Kasus Meninggal :</string>
+    <string name="kode_provinsi">Kode Provinsi :</string>
 
 </resources>

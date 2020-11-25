@@ -12,7 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AssignmentUdacoding.Light"
         android:usesCleartextTraffic="true">
-        <activity android:name=".view.assignment3.CoronaActivity"></activity>
+        <activity android:name=".view.assignment3.DetailCovidActivity"></activity>
+        <activity android:name=".view.assignment3.DetailMuseumActivity" />
+        <activity android:name=".view.assignment3.DetailBatikActivity" />
+        <activity android:name=".view.assignment3.CoronaActivity" />
         <activity android:name=".view.assignment3.ProvinceActivity" />
         <activity android:name=".view.assignment3.MuseumActivity" />
         <activity android:name=".view.assignment3.BatikActivity" />
