@@ -29,40 +29,58 @@ class DetailActivity : AppCompatActivity() {
     }
 
     private fun setDescription(){
-        if (name == "Iron Man"){
-            tv_description.setText(R.string.desc_ironman)
-        } else if (name == "Spider Man"){
-            tv_description.setText(R.string.desc_spiderman)
-        } else if (name == "Hawk Eye") {
-            tv_description.setText(R.string.desc_hawkeye)
-        } else if (name == "Hulk") {
-            tv_description.setText(R.string.desc_hulk)
-        } else if (name == "Dr Strange") {
-            tv_description.setText(R.string.desc_strange)
-        } else if (name == "Wanda") {
-            tv_description.setText(R.string.desc_wanda)
-        } else if (name == "Vision") {
-            tv_description.setText(R.string.desc_vision)
-        } else if (name == "Black Panther") {
-            tv_description.setText(R.string.desc_black_panther)
-        } else if (name == "Black Widow") {
-            tv_description.setText(R.string.desc_black_widow)
-        } else if (name == "Ant Man") {
-            tv_description.setText(R.string.desc_antman)
-        } else if (name == "Rocket Raccoon") {
-            tv_description.setText(R.string.desc_rocket_raccoon)
-        } else if (name == "Groot") {
-            tv_description.setText(R.string.desc_groot)
-        } else if (name == "Tesla Model X"){
-            tv_description.setText(R.string.desc_tesla_x)
-        } else if (name == "Tesla Model S"){
-            tv_description.setText(R.string.desc_tesla_s)
-        } else if (name == "Tesla Model 3"){
-            tv_description.setText(R.string.desc_tesla_3)
-        } else if (name == "Tesla Cybertruck"){
-            tv_description.setText(R.string.desc_tesla_cybertruck)
-        } else if (name == "Tesla Roadster"){
-            tv_description.setText(R.string.desc_tesla_roadster)
+        when (name) {
+            "Iron Man" -> {
+                tv_description.setText(R.string.desc_ironman)
+            }
+            "Spider Man" -> {
+                tv_description.setText(R.string.desc_spiderman)
+            }
+            "Hawk Eye" -> {
+                tv_description.setText(R.string.desc_hawkeye)
+            }
+            "Hulk" -> {
+                tv_description.setText(R.string.desc_hulk)
+            }
+            "Dr Strange" -> {
+                tv_description.setText(R.string.desc_strange)
+            }
+            "Wanda" -> {
+                tv_description.setText(R.string.desc_wanda)
+            }
+            "Vision" -> {
+                tv_description.setText(R.string.desc_vision)
+            }
+            "Black Panther" -> {
+                tv_description.setText(R.string.desc_black_panther)
+            }
+            "Black Widow" -> {
+                tv_description.setText(R.string.desc_black_widow)
+            }
+            "Ant Man" -> {
+                tv_description.setText(R.string.desc_antman)
+            }
+            "Rocket Raccoon" -> {
+                tv_description.setText(R.string.desc_rocket_raccoon)
+            }
+            "Groot" -> {
+                tv_description.setText(R.string.desc_groot)
+            }
+            "Tesla Model X" -> {
+                tv_description.setText(R.string.desc_tesla_x)
+            }
+            "Tesla Model S" -> {
+                tv_description.setText(R.string.desc_tesla_s)
+            }
+            "Tesla Model 3" -> {
+                tv_description.setText(R.string.desc_tesla_3)
+            }
+            "Tesla Cybertruck" -> {
+                tv_description.setText(R.string.desc_tesla_cybertruck)
+            }
+            "Tesla Roadster" -> {
+                tv_description.setText(R.string.desc_tesla_roadster)
+            }
         }
     }
 
